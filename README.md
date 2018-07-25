@@ -20,8 +20,8 @@
 - IDE: Visual Studio 2017
 
 ## 참고
-PhotonNetwork Tutorial by FirstGearGames: [github](https://github.com/FirstGearGames/PhotonNetwork_Tutorial/tree/master/Assets/Scripts)
-Unity: Online Multiplayer Tutorial by BTOUnit: [Youtube](https://www.youtube.com/playlist?list=PLUVF3yd_LPYTEtmpR_uPQ5JYt1bEO5pwG)
+- PhotonNetwork Tutorial by FirstGearGames: [github](https://github.com/FirstGearGames/PhotonNetwork_Tutorial/tree/master/Assets/Scripts)
+- Unity: Online Multiplayer Tutorial by BTOUnit: [Youtube](https://www.youtube.com/playlist?list=PLUVF3yd_LPYTEtmpR_uPQ5JYt1bEO5pwG)
 
 ## 라이선스
 This project is licensed under the MIT License
