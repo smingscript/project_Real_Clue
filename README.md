@@ -3,11 +3,11 @@
 기존의 턴 기반 추리 시스템을 유지하면서, 사용자가 플레이하기 편한 네트워크를 이용한 자동화된 UI를 통해 보드게임의 한계를 개선합니다.
 
 ## 시작하기
-> 이 리포지토리에는 용량의 문제로 프로젝트의 스크립트만 배포하고 있습니다. 지금까지 진행된 프로젝트의 전체는 구글 드라이브(https://goo.gl/ojP6Uq)에서 다운받을 수 있습니다.
+> 이 리포지토리에는 용량의 문제로 프로젝트의 스크립트만 배포하고 있습니다. 지금까지 진행된 프로젝트의 전체는 구글 드라이브( https://goo.gl/ojP6Uq )에서 다운받을 수 있습니다.
 > 프로젝트에 사용된 일부 유료 리소스의 저작권의 문제로 3D 캐릭터 prefab은 Capsule로 대체되어 있습니다.
 
 ### 프로그램 데모 실행하기
-> 1. 구글 드라이브 링크(https://goo.gl/ojP6Uq)로 접속하여 이 프로젝트의 소스를 다운받습니다. Unity 3D에서 프로젝트를 엽니다.
+> 1. 구글 드라이브 링크( https://goo.gl/ojP6Uq )로 접속하여 이 프로젝트의 소스를 다운받습니다. Unity 3D에서 프로젝트를 엽니다.
 > 2. https://www.photonengine.com/ 에 로그인하여 대시보드의 어플리케이션 ID을 복사합니다.
 > 3. `/Real_Clue/Real Clue/Assets/Photon Unity Networking/Resources` 폴더의 PhotonServerSetting의 AppId에 복사한 어플리케이션 ID를 등록합니다.
 > 4. Test Run을 할 때 `/Real_Clue/Real Clue/Assets/Scene/LobbyScenes`에 있는 Launcher 씬에서 실행해야 네트워크에 접속할 수 있습니다.
